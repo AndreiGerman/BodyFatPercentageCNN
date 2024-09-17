@@ -1,0 +1,2 @@
+*.KERAS filter=lfs diff=lfs merge=lfs -text
+*.H5 filter=lfs diff=lfs merge=lfs -text
